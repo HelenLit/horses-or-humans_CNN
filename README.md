@@ -23,5 +23,6 @@ Non-trainable params: 0
 
 Intermediate representations:
 
-![image](https://github.com/HelenLit/horses-or-humans_CNN/assets/108334668/f3fa429d-1273-4e2a-8758-debd201e8b5f)
+![image](https://github.com/HelenLit/horses-or-humans_CNN/assets/108334668/800f02dc-e1f6-4353-ba33-30a09558f761)
+
 
