@@ -19,4 +19,9 @@ Trainable params: 1,704,097
 Non-trainable params: 0
 
 
-**loss: 0.0870 - accuracy: 0.9666**
+**loss: 0.0393 - accuracy: 0.9822 - val_loss: 2.8014 - val_accuracy: 0.7969**
+
+Intermediate representations:
+
+![image](https://github.com/HelenLit/horses-or-humans_CNN/assets/108334668/f3fa429d-1273-4e2a-8758-debd201e8b5f)
+
